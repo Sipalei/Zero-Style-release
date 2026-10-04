@@ -1,0 +1,6 @@
+{
+  "version": "0.1.0",
+  "windows": "https://github.com/Sipalei/Zero-Style-release/releases/download/v0.1.0/ZeroStyle.exe",
+  "sha256": "dd2cb763120752b2542d4f150d029856f22a76dc1bb3504059383bb1463e3362",
+  "notes": "Première version : apparence, menu clic droit classique, explorateur et retour en arrière complet."
+}
