@@ -1,6 +1,6 @@
 {
-  "version": "0.2.0",
-  "windows": "https://github.com/Sipalei/Zero-Style-release/releases/download/v0.2.0/ZeroStyle.exe",
-  "sha256": "ea7e6c1171c020623b4b5291317a520e62db08e614736ad543a6368d3d5acb9f",
-  "notes": "Couleur d'accent, barre des tâches et menu Démarrer, Tranquillité (moins de publicités et de suggestions)."
+  "version": "0.3.0",
+  "windows": "https://github.com/Sipalei/Zero-Style-release/releases/download/v0.3.0/ZeroStyle.exe",
+  "sha256": "2fa40a4f5285fdfca6dbb9caa9a852ca55f005387ee03ee8ec94753fa00d149b",
+  "notes": "Style des fenêtres : barre de titre sombre, couleurs de bordure et de titre, angles, appliqués à la fenêtre active."
 }
