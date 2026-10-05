@@ -1,6 +1,6 @@
 {
-  "version": "0.3.0",
-  "windows": "https://github.com/Sipalei/Zero-Style-release/releases/download/v0.3.0/ZeroStyle.exe",
-  "sha256": "2fa40a4f5285fdfca6dbb9caa9a852ca55f005387ee03ee8ec94753fa00d149b",
-  "notes": "Style des fenêtres : barre de titre sombre, couleurs de bordure et de titre, angles, appliqués à la fenêtre active."
+  "version": "0.3.1",
+  "windows": "https://github.com/Sipalei/Zero-Style-release/releases/download/v0.3.1/ZeroStyle.exe",
+  "sha256": "cb8bd7d0807e06a01ed6c5f3f0fb8bb0a74841e5ce8b7d10f24ec2271ca91239",
+  "notes": "Style des fenêtres : barre sombre et couleurs redessinées tout de suite, bordure qui reste, toutes les fenêtres ouvertes."
 }
