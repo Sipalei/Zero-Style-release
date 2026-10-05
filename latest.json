@@ -1,6 +1,6 @@
 {
-  "version": "0.3.1",
-  "windows": "https://github.com/Sipalei/Zero-Style-release/releases/download/v0.3.1/ZeroStyle.exe",
-  "sha256": "cb8bd7d0807e06a01ed6c5f3f0fb8bb0a74841e5ce8b7d10f24ec2271ca91239",
-  "notes": "Style des fenêtres : barre sombre et couleurs redessinées tout de suite, bordure qui reste, toutes les fenêtres ouvertes."
+  "version": "0.4.0",
+  "windows": "https://github.com/Sipalei/Zero-Style-release/releases/download/v0.4.0/ZeroStyle.exe",
+  "sha256": "c4b9869a601d29f5f85439a3d7ba573aa47914fc6eef2fb23e47d0debfb94fa9",
+  "notes": "Nouvelle page Souris et effets : effet de suivi de la souris, vitesse, précision et taille du pointeur, animations."
 }
